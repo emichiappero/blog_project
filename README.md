@@ -39,7 +39,7 @@ The UI design for this project was inspired by [[Bootstrap Card Example](https:/
 
 ## Deployment
 
-This project is deployed on GitHub Pages. You can view the live version [here](link_to_github_pages).
+This project is deployed on GitHub Pages. You can view the live version [here](https://emichiappero.github.io/).
 
 ## Future Improvements
 
